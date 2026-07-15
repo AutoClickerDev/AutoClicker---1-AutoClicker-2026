@@ -4,8 +4,7 @@
 
 Automate mouse clicks and keyboard inputs with extreme precision. Perfect for **Minecraft**, **Roblox**, **OSRS**, **Hypixel**, idle games, data entry, and repetitive tasks.
 
-[![Download AutoClicker](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=github)](https://github.com/AutoClickerDev/AutoClicker/releases/latest)
-
+[![⬇️ Download Latest Version](https://img.shields.io/badge/Download-Latest_Version-00b4ff?style=for-the-badge&logo=github)](https://github.com/AutoClickerDev/AutoClicker---1-AutoClicker-2026/releases/latest)
 ---
 
 
